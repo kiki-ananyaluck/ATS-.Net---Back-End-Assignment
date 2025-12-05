@@ -1,0 +1,6 @@
+@ATS_Net___Back_End_Assignment_HostAddress = http://localhost:5062
+
+GET {{ATS_Net___Back_End_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

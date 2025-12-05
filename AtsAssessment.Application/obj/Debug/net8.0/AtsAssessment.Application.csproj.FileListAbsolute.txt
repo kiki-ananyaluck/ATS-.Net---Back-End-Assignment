@@ -1,0 +1,17 @@
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\bin\Debug\net8.0\AtsAssessment.Application.deps.json
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\bin\Debug\net8.0\AtsAssessment.Application.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\bin\Debug\net8.0\AtsAssessment.Application.pdb
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\bin\Debug\net8.0\AtsAssessment.Domain.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\bin\Debug\net8.0\AtsAssessment.Domain.pdb
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\AtsAssessment.Application.csproj.AssemblyReference.cache
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\AtsAssessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\AtsAssessment.Application.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\AtsAssessment.Application.AssemblyInfo.cs
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\AtsAssessment.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\AtsAsses.A2042127.Up2Date
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\AtsAssessment.Application.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\refint\AtsAssessment.Application.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\AtsAssessment.Application.pdb
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\obj\Debug\net8.0\ref\AtsAssessment.Application.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\bin\Debug\net8.0\AtsAssessment.Infrastructure.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Application\bin\Debug\net8.0\AtsAssessment.Infrastructure.pdb

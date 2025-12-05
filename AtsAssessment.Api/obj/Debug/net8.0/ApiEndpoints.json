@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "AtsAssessment.Api.Controllers.AuthController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/Auth/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AtsAssessment.Domain.Auth.JwtRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AtsAssessment.Api.Controllers.EmployeeController",
+    "Method": "GetEmployeesWithDepartment",
+    "RelativePath": "api/Employee/with-department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AtsAssessment.Api.Controllers.RankController",
+    "Method": "ProcessRank",
+    "RelativePath": "api/Rank",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AtsAssessment.Domain.DTOs.RankRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AtsAssessment.Api.Controllers.WeatherProxyController",
+    "Method": "GetWeather",
+    "RelativePath": "api/WeatherProxy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

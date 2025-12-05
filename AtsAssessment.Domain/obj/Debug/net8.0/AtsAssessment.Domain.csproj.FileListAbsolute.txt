@@ -1,0 +1,11 @@
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\bin\Debug\net8.0\AtsAssessment.Domain.deps.json
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\bin\Debug\net8.0\AtsAssessment.Domain.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\bin\Debug\net8.0\AtsAssessment.Domain.pdb
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\obj\Debug\net8.0\AtsAssessment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\obj\Debug\net8.0\AtsAssessment.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\obj\Debug\net8.0\AtsAssessment.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\obj\Debug\net8.0\AtsAssessment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\obj\Debug\net8.0\AtsAssessment.Domain.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\obj\Debug\net8.0\refint\AtsAssessment.Domain.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\obj\Debug\net8.0\AtsAssessment.Domain.pdb
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Domain\obj\Debug\net8.0\ref\AtsAssessment.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\bin\Debug\net8.0\AtsAssessment.Infrastructure.deps.json
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\bin\Debug\net8.0\AtsAssessment.Infrastructure.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\bin\Debug\net8.0\AtsAssessment.Infrastructure.pdb
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\bin\Debug\net8.0\AtsAssessment.Domain.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\bin\Debug\net8.0\AtsAssessment.Domain.pdb
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\AtsAssessment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\AtsAssessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\AtsAssessment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\AtsAssessment.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\AtsAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\AtsAsses.1962D355.Up2Date
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\AtsAssessment.Infrastructure.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\refint\AtsAssessment.Infrastructure.dll
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\AtsAssessment.Infrastructure.pdb
+C:\Users\user\Documents\keke\ATS\ATS Net - Back End Assignment\AtsAssessment.Infrastructure\obj\Debug\net8.0\ref\AtsAssessment.Infrastructure.dll
